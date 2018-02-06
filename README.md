@@ -8,5 +8,5 @@ A sniffer written in python
 4. 项目地址：[Github](https://github.com/SuperHenry2333/WireSniffer)
 
 ## 运行：
-*方法一：直接运行./WireSniffer/bin/Debug/WireSniffer.exe
-*方法二：编译sniffer1.sln文件运行
+*   方法一：直接运行./WireSniffer/bin/Debug/WireSniffer.exe
+*   方法二：编译sniffer1.sln文件运行
