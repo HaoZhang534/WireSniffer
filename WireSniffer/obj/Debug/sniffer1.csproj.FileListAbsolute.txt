@@ -230,3 +230,16 @@ C:\Users\Administrator\Documents\Tencent Files\931851825\FileRecv\sniffer_fin\Wi
 C:\Users\Administrator\Documents\Tencent Files\931851825\FileRecv\sniffer_fin\WireSniffer\obj\Debug\sniffer1.csproj.GenerateResource.Cache
 C:\Users\Administrator\Documents\Tencent Files\931851825\FileRecv\sniffer_fin\WireSniffer\obj\Debug\WireSniffer.exe
 C:\Users\Administrator\Documents\Tencent Files\931851825\FileRecv\sniffer_fin\WireSniffer\obj\Debug\WireSniffer.pdb
+D:\Git_rep\WireSniffer\WireSniffer\bin\Debug\WireSniffer.exe.config
+D:\Git_rep\WireSniffer\WireSniffer\bin\Debug\WireSniffer.exe
+D:\Git_rep\WireSniffer\WireSniffer\bin\Debug\WireSniffer.pdb
+D:\Git_rep\WireSniffer\WireSniffer\bin\Debug\PacketDotNet.xml
+D:\Git_rep\WireSniffer\WireSniffer\bin\Debug\SharpPcap.xml
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\sniffer1.csprojResolveAssemblyReference.cache
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\sniffer1.MainForm.resources
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\WireSniffer.Properties.Resources.resources
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\sniffer1.Search_form.resources
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\sniffer1.SplashScreen.resources
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\sniffer1.csproj.GenerateResource.Cache
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\WireSniffer.exe
+D:\Git_rep\WireSniffer\WireSniffer\obj\Debug\WireSniffer.pdb
